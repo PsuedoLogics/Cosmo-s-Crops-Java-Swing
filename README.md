@@ -1,10 +1,24 @@
-# NativeJavaSwingGraphics
-Testing writing graphical programs in pure Java using Swing.
+# Cosmo's Crops - A fun little Java game
+Testing writing graphical programs in Java using Swing, gathering and processing input, character controls, animations, and timed systems.
 
-By Michael Mathews - Copywrite 2024
+By Michael Mathews - 2024
 
-All code and graphics(poor as they are) are done by Michael M.
+All code and 'graphics'(lol) are done by Michael M.
 
-Program runs and demonstrates a simple building, growing, and harvesting system. 
+To Run:
 
-Using Java Swing.
+Download project files. 
+
+Open in preferred IDE (Built w IntelliJ).
+
+Run the main file.
+
+Graphical window will launch. 
+
+Press 'E' to switch action type (IE: Planting/Harvesting/Building) and 'click' with mouse to perform action. 
+
+Must Till the land, then plant(only if seeds are available), harvest when grown, and build fences to protect the crops.
+
+-Enjoy
+
+
