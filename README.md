@@ -1,5 +1,5 @@
 # Cosmo's Crops - A fun little Java game
-Testing writing graphical programs in Java using Swing, gathering and processing input, character controls, animations, and timed systems.
+Small farming simulator using Java Swing, gathering and processing input, character controls, animations, and timed systems.
 
 By Michael Mathews - 2024
 
