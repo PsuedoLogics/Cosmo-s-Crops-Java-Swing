@@ -1,23 +1,23 @@
 # Cosmo's Crops - A fun little Java game
-Small farming simulator using Java Swing, gathering and processing input, character controls, animations, and timed systems.
+Small farming/building simulator using Java Swing, gathering and processing input, character controls, animations, and timed systems.
 
-By Michael Mathews - 2024
+## All programming and development by Michael Mathews - 2024
 
 All code and 'graphics'(lol) are done by Michael M.
 
-To Run:
+## To Run:
 
-Download project files. 
+1.)Download project files. 
 
-Open in preferred IDE (Built w IntelliJ).
+2.)Open in preferred IDE (Built w IntelliJ).
 
-Run the main file.
+3.)Run the main file.
 
-Graphical window will launch. 
+4.)Graphical window will launch. 
 
-Press 'E' to switch action type (IE: Planting/Harvesting/Building) and 'click' with mouse to perform action. 
+5.)Press 'E' to switch action type (IE: Planting/Harvesting/Building) and 'click' with mouse to perform action. 
 
-Must Till the land, then plant(only if seeds are available), harvest when grown, and build fences to protect the crops.
+# TIP: Must Till the land, then plant(only if seeds are available), harvest when grown, and build fences to protect the crops.
 
 -Enjoy
 
